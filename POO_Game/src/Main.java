@@ -21,6 +21,8 @@ public class Main {
         Carro mazda = new Carro("Rojo");
         mazda.setColor("amarillo");
         System.out.println(mazda.getColor());
+
+    //    editado por Veronica Jimenez
     }
 
 }
